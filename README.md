@@ -1,6 +1,14 @@
-# How to start porject
+## Getting Started
 
+```bash
+npm i
+```
 
+run the development server:
+
+```bash
+npm run dev
+```
 
 # React + TypeScript + Vite
 
